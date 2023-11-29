@@ -14,4 +14,5 @@ const oddNumbers = (num) => {
     }
   }
 }
-oddNumbers(40);
+const num=prompt('Enter bound where you wanna find odd numbers upto:";
+oddNumbers(num);
